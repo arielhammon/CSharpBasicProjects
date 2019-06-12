@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.deps.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.runtimeconfig.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.dll
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.pdb
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.dll
+C:\Users\ahammon3\source\repos\C# Basic Projects\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.pdb
