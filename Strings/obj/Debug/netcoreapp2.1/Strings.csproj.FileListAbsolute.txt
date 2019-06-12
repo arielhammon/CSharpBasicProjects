@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\bin\Debug\netcoreapp2.1\Strings.deps.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\bin\Debug\netcoreapp2.1\Strings.runtimeconfig.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\bin\Debug\netcoreapp2.1\Strings.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\bin\Debug\netcoreapp2.1\Strings.dll
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\bin\Debug\netcoreapp2.1\Strings.pdb
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\obj\Debug\netcoreapp2.1\Strings.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\obj\Debug\netcoreapp2.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\obj\Debug\netcoreapp2.1\Strings.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\obj\Debug\netcoreapp2.1\Strings.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\obj\Debug\netcoreapp2.1\Strings.dll
+C:\Users\ahammon3\source\repos\C# Basic Projects\Strings\obj\Debug\netcoreapp2.1\Strings.pdb
