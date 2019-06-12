@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\bin\Debug\netcoreapp2.1\LoopsWithArraysAndLists.deps.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\bin\Debug\netcoreapp2.1\LoopsWithArraysAndLists.runtimeconfig.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\bin\Debug\netcoreapp2.1\LoopsWithArraysAndLists.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\bin\Debug\netcoreapp2.1\LoopsWithArraysAndLists.dll
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\bin\Debug\netcoreapp2.1\LoopsWithArraysAndLists.pdb
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\obj\Debug\netcoreapp2.1\LoopsWithArraysAndLists.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\obj\Debug\netcoreapp2.1\LoopsWithArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\obj\Debug\netcoreapp2.1\LoopsWithArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\obj\Debug\netcoreapp2.1\LoopsWithArraysAndLists.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\obj\Debug\netcoreapp2.1\LoopsWithArraysAndLists.dll
+C:\Users\ahammon3\source\repos\C# Basic Projects\LoopsWithArraysAndLists\obj\Debug\netcoreapp2.1\LoopsWithArraysAndLists.pdb
