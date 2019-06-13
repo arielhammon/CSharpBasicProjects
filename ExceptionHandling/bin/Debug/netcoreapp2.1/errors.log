@@ -1,0 +1,23 @@
+Starting Program.Main at 6/13/2019 3:39:45 PM
+    Taking user input string from console and converting to double.
+    CAUGHT EXCEPTION: 
+    System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at ExceptionHandling.Program.Main(String[] args) in C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\Program.cs:line 35
+Ending Program.Main at 6/13/2019 3:39:47 PM
+
+Starting Program.Main at 6/13/2019 3:40:03 PM
+    Taking user input string from console and converting to double.
+    CAUGHT EXCEPTION: 
+    System.DivideByZeroException: Attempted to divide by zero.
+   at ExceptionHandling.Program.Main(String[] args) in C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\Program.cs:line 44
+Ending Program.Main at 6/13/2019 3:40:05 PM
+
+Starting Program.Main at 6/13/2019 3:40:15 PM
+    Taking user input string from console and converting to double.
+    CAUGHT EXCEPTION: 
+    System.ArithmeticException: Program.Main: Let's not perform arithmetic on NaN
+   at ExceptionHandling.Program.Main(String[] args) in C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\Program.cs:line 48
+Ending Program.Main at 6/13/2019 3:40:19 PM
+

@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.pdb
