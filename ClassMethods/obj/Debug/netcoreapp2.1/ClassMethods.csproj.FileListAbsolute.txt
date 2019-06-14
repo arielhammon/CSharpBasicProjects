@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\bin\Debug\netcoreapp2.1\ClassMethods.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\bin\Debug\netcoreapp2.1\ClassMethods.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\bin\Debug\netcoreapp2.1\ClassMethods.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\bin\Debug\netcoreapp2.1\ClassMethods.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\bin\Debug\netcoreapp2.1\ClassMethods.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\obj\Debug\netcoreapp2.1\ClassMethods.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\obj\Debug\netcoreapp2.1\ClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\obj\Debug\netcoreapp2.1\ClassMethods.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\obj\Debug\netcoreapp2.1\ClassMethods.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\obj\Debug\netcoreapp2.1\ClassMethods.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethods\obj\Debug\netcoreapp2.1\ClassMethods.pdb
