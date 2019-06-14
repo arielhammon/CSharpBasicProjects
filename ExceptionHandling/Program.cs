@@ -38,11 +38,9 @@ namespace ExceptionHandling
                     case 0:
                         //the double type allows division by zero, but it displays as NaN or infinity, which I want to dis-allow
                         throw new System.DivideByZeroException();
-                        break;
                     case double.NaN:
                         //the double type allows division by NaN (not a number), but it displays as NaN, which I want to dis-allow
                         throw new System.ArithmeticException("Program.Main: Let's not perform arithmetic on NaN");
-                        break;
                 }
                 
                 Trace.WriteLine("Dividing each int in array by the user's double.");
