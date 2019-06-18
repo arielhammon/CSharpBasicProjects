@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\bin\Debug\netcoreapp2.1\ClassMethodsAndParameters.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\bin\Debug\netcoreapp2.1\ClassMethodsAndParameters.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\bin\Debug\netcoreapp2.1\ClassMethodsAndParameters.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\bin\Debug\netcoreapp2.1\ClassMethodsAndParameters.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\bin\Debug\netcoreapp2.1\ClassMethodsAndParameters.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\obj\Debug\netcoreapp2.1\ClassMethodsAndParameters.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\obj\Debug\netcoreapp2.1\ClassMethodsAndParameters.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\obj\Debug\netcoreapp2.1\ClassMethodsAndParameters.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\obj\Debug\netcoreapp2.1\ClassMethodsAndParameters.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\obj\Debug\netcoreapp2.1\ClassMethodsAndParameters.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsAndParameters\obj\Debug\netcoreapp2.1\ClassMethodsAndParameters.pdb
