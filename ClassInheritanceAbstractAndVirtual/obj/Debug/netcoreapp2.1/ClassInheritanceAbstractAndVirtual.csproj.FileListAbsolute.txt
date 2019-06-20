@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\bin\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\bin\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\bin\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\bin\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\bin\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\obj\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\obj\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\obj\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\obj\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\obj\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritanceAbstractAndVirtual\obj\Debug\netcoreapp2.1\ClassInheritanceAbstractAndVirtual.pdb
