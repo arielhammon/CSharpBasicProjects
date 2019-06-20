@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\bin\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\bin\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\bin\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\bin\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\bin\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\obj\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\obj\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\obj\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\obj\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\obj\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsOptionalParameters\obj\Debug\netcoreapp2.1\ClassMethodsOptionalParameters.pdb
