@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\bin\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\bin\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\bin\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\bin\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\bin\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\obj\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\obj\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\obj\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\obj\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\obj\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassMethodsStaticAndOutParams\obj\Debug\netcoreapp2.1\ClassMethodsStaticAndOutParams.pdb
