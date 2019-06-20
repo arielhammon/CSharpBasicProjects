@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\bin\Debug\netcoreapp2.1\ClassInheritance.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\bin\Debug\netcoreapp2.1\ClassInheritance.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\bin\Debug\netcoreapp2.1\ClassInheritance.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\bin\Debug\netcoreapp2.1\ClassInheritance.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\bin\Debug\netcoreapp2.1\ClassInheritance.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\obj\Debug\netcoreapp2.1\ClassInheritance.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\obj\Debug\netcoreapp2.1\ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\obj\Debug\netcoreapp2.1\ClassInheritance.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\obj\Debug\netcoreapp2.1\ClassInheritance.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\obj\Debug\netcoreapp2.1\ClassInheritance.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ClassInheritance\obj\Debug\netcoreapp2.1\ClassInheritance.pdb
