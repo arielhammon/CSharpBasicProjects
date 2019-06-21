@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\bin\Debug\netcoreapp2.1\EnumsAndParsingValues.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\bin\Debug\netcoreapp2.1\EnumsAndParsingValues.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\bin\Debug\netcoreapp2.1\EnumsAndParsingValues.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\bin\Debug\netcoreapp2.1\EnumsAndParsingValues.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\bin\Debug\netcoreapp2.1\EnumsAndParsingValues.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\obj\Debug\netcoreapp2.1\EnumsAndParsingValues.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\obj\Debug\netcoreapp2.1\EnumsAndParsingValues.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\obj\Debug\netcoreapp2.1\EnumsAndParsingValues.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\obj\Debug\netcoreapp2.1\EnumsAndParsingValues.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\obj\Debug\netcoreapp2.1\EnumsAndParsingValues.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\EnumsAndParsingValues\obj\Debug\netcoreapp2.1\EnumsAndParsingValues.pdb
