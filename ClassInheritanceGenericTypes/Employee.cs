@@ -36,17 +36,8 @@ namespace ClassInheritanceAbstractAndVirtual
 
         public static bool operator ==(Employee<T> emp1, Employee<T> emp2)
         {
-            if (emp1 is null && emp2 is null) return true;
-            if (emp1 is null && !(emp2 is null) ||
-                !(emp1 is null) && emp2 is null) return false;
-            if (!emp1.GetType().Equals(emp2.GetType())) //in case a class is derived from this class
-            {
-                return false;
-            }
-            else
-            {
-                return emp1.ID == emp2.ID;
-            }
+            if (emp1 is null || emp2 is null) return false;
+            return emp1.ID == emp2.ID;
         }
 
         public static bool operator ==(Employee<string> emp1, Employee<T> emp2)
