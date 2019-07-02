@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\bin\Debug\netcoreapp2.1\Structs.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\bin\Debug\netcoreapp2.1\Structs.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\bin\Debug\netcoreapp2.1\Structs.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\bin\Debug\netcoreapp2.1\Structs.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\bin\Debug\netcoreapp2.1\Structs.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\obj\Debug\netcoreapp2.1\Structs.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\obj\Debug\netcoreapp2.1\Structs.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\obj\Debug\netcoreapp2.1\Structs.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\obj\Debug\netcoreapp2.1\Structs.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\obj\Debug\netcoreapp2.1\Structs.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\Structs\obj\Debug\netcoreapp2.1\Structs.pdb
