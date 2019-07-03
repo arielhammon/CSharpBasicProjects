@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\bin\Debug\netcoreapp2.1\DateAndTime.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\bin\Debug\netcoreapp2.1\DateAndTime.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\bin\Debug\netcoreapp2.1\DateAndTime.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\bin\Debug\netcoreapp2.1\DateAndTime.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\bin\Debug\netcoreapp2.1\DateAndTime.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\obj\Debug\netcoreapp2.1\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\obj\Debug\netcoreapp2.1\DateAndTime.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\obj\Debug\netcoreapp2.1\DateAndTime.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\obj\Debug\netcoreapp2.1\DateAndTime.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\obj\Debug\netcoreapp2.1\DateAndTime.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\DateAndTime\obj\Debug\netcoreapp2.1\DateAndTime.csprojAssemblyReference.cache
