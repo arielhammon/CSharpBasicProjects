@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\bin\Debug\netcoreapp2.1\FileIO.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\bin\Debug\netcoreapp2.1\FileIO.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\bin\Debug\netcoreapp2.1\FileIO.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\bin\Debug\netcoreapp2.1\FileIO.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\bin\Debug\netcoreapp2.1\FileIO.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\obj\Debug\netcoreapp2.1\FileIO.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\obj\Debug\netcoreapp2.1\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\obj\Debug\netcoreapp2.1\FileIO.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\obj\Debug\netcoreapp2.1\FileIO.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\obj\Debug\netcoreapp2.1\FileIO.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\FileIO\obj\Debug\netcoreapp2.1\FileIO.pdb
