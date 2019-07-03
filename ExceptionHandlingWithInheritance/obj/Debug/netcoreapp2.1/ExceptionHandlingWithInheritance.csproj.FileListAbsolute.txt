@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\bin\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\bin\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\bin\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\bin\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\bin\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\obj\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\obj\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\obj\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\obj\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\obj\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\ExceptionHandlingWithInheritance\obj\Debug\netcoreapp2.1\ExceptionHandlingWithInheritance.pdb
