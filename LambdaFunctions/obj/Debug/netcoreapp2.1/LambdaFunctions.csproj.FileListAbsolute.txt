@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\bin\Debug\netcoreapp2.1\LambdaFunctions.deps.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\bin\Debug\netcoreapp2.1\LambdaFunctions.runtimeconfig.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\bin\Debug\netcoreapp2.1\LambdaFunctions.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\bin\Debug\netcoreapp2.1\LambdaFunctions.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\bin\Debug\netcoreapp2.1\LambdaFunctions.pdb
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\obj\Debug\netcoreapp2.1\LambdaFunctions.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\obj\Debug\netcoreapp2.1\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\obj\Debug\netcoreapp2.1\LambdaFunctions.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\obj\Debug\netcoreapp2.1\LambdaFunctions.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\obj\Debug\netcoreapp2.1\LambdaFunctions.dll
+C:\Users\ahammon3\source\repos\CSharpBasicProjects\LambdaFunctions\obj\Debug\netcoreapp2.1\LambdaFunctions.pdb
