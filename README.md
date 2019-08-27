@@ -48,7 +48,7 @@ Highlights:
 1. Converts System.Double and System.Decimal to/from Fraction using bitwise conversions for maximum accuracy and speed.
 2. Infinite precision for many very small or very large fractions whose numerators and denominators can be represented as 64 bit unsighted integers.
 3. Highly Robust
-   -Handles many different scenarios to prioritize exactness and automatically converts to a "floating-point" approximations in order to avoid overflow/underflow when exactness cannot be maintained.
-   -Utilizes +/-Infinity and NaN as System.Double does to avoid throwing exceptions such as division by zero.
+   - Handles many different scenarios to prioritize exactness and automatically converts to a "floating-point" approximations in order to avoid overflow/underflow when exactness cannot be maintained.
+   - Utilizes +/-Infinity and NaN as System.Double does to avoid throwing exceptions such as division by zero.
 4. 136 bit datatype. Five extra bits made available as boolean flags for custom use.
 5. Automatically tracks states of the Fraction such as exactness and reducedness.
