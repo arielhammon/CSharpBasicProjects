@@ -17,6 +17,8 @@ Highlights:
 3. Custom Interfaces and Implementation
 4. Classes based on Generic Types <T> with operator overloading (very challenging)
 
+[Goto code repository](https://github.com/arielhammon/CSharpBasicProjects/tree/master/ClassInheritanceOperatorOverloading)
+
 ## ClassMethodsOverloading
 A C# console app which implements a highly efficient sieve of Eratosthenes to generate prime numbers, based on a bitwise manage array of un-signed long integers for optimal speed and memory usage.
 
@@ -24,6 +26,8 @@ Highlights:
 1. Static methods
 2. Method overloading
 3. Various parameter types (out, optional, etc.)
+
+[Goto code repository](https://github.com/arielhammon/CSharpBasicProjects/tree/master/ClassMethodsOverloading)
 
 ## ExceptionHandling
 A C# console app which handles exceptions, generates useful diagnostic data, and writes diagnostic data to an external log file.
@@ -33,6 +37,8 @@ Highlights:
 2. Catching multiple different types of exceptions with special handling for each.
 3. External file error logging
 
+[Goto code repository](https://github.com/arielhammon/CSharpBasicProjects/tree/master/ExceptionHandling)
+
 ## ExceptionHandlingWithInheritance
 A C# console app which further demonstrates error handling by creating custom classes which inherit from System.Exception.
 
@@ -40,6 +46,8 @@ Highlights:
 1. Custom Exception Classes
 2. Detailed exception messages and user help
 3. Retries in order to attempt avoiding exceptions
+
+[Goto code repository](https://github.com/arielhammon/CSharpBasicProjects/tree/master/ExceptionHandlingWithInheritance)
 
 ## Structs
 A C# console app which develops a custom data type, Fraction, which works seamlessly with the System.Double data type and significantly expands its range and accuracy.
@@ -52,3 +60,5 @@ Highlights:
    - Utilizes +/-Infinity and NaN as System.Double does to avoid throwing exceptions such as division by zero.
 4. 136 bit datatype. Five extra bits made available as boolean flags for custom use.
 5. Automatically tracks states of the Fraction such as exactness and reducedness.
+
+[Goto code repository](https://github.com/arielhammon/CSharpBasicProjects/tree/master/Structs)
